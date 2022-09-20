@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -12,7 +11,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/H1D020083.jpg"
+        android:src="@drawable/H1D020083"
         android:adjustViewBounds="true"/>
 
     <TextView
@@ -22,13 +21,9 @@
         android:text="@string/Thariq_Putradhafa"
 
 />
+</LinearLayout>
 
-    <SeekBar
-        android:id="@+id/seekBar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-</LinearLayout> -->
-
+<!--
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
